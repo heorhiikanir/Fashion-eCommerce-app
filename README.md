@@ -1,9 +1,6 @@
 # Flutter - Fashion eCommerce app
 ![ezgif com-gif-maker](https://github.com/heorhiikanir/Fashion-eCommerce-app/blob/master/fashion_ecommerce_app/screen_shots/232251489-b98c66f3-3baa-41db-a0d5-984799db45a4.png)
 
-## This link allows you to support me, and I really appreciate your help:
-* [SUPPORT](https://www.buymeacoffee.com/AmirBayat)
-
 ## ScreenShots
 ![Screenshot (500)](https://github.com/heorhiikanir/Fashion-eCommerce-app/blob/master/fashion_ecommerce_app/screen_shots/214786878-46b14ada-f0f4-48c3-a6fc-e29f746c8b54.png)
 ![Screenshot (501)](https://github.com/heorhiikanir/Fashion-eCommerce-app/blob/master/fashion_ecommerce_app/screen_shots/214786932-fd157fa7-5df5-4179-9986-e6fe7f7e615e.png)
